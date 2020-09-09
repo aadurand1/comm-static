@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: categories
 title:  "Welcome to J-Town!"
 date:   2020-09-07 17:35:10 -0400
 categories: jekyll update
