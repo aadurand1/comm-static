@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: home
 title:  "Welcome to J-Town!"
 date:   2020-09-07 17:35:10 -0400
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Is there a change? 
+Is there a change?
 
 Jekyll requires blog post files to be named according to the following format:
 
