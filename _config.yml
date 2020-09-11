@@ -18,12 +18,12 @@ minimal_mistakes_skin    : "dark" # "default" , "aqua", "air" , "contrast" , "di
 locale                   : "en-US"
 title                    : "Communication Static"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : clearing the air
 name                     : "Andrew"
-description              : "An amazing website."
+description              : "Say something cool man."
 url                      : "https://aadurand1.github.io/comm-static/"
 baseurl                  : "/comm-static"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "aadurand1/comm-static"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -93,8 +93,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Andrew"
+  avatar           : "/assets/images/bioPic.jpeg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
