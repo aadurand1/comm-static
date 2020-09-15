@@ -27,21 +27,23 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/bayKayak.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+  - image_path: /assets/images/noun_discussion_bubbles.png
+    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
 feature_row3:
-  - image_path: /assets/images/walkPlatteBay.png
+  - image_path: /assets/images/noun_tuning.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
+
+# Include the following to add a 3 pic feature row
+# {% include feature_row %}
 ---
- What does all this mean? Hello Anabelle!!
- {% include feature_row %}
+
  {% include feature_row id="feature_row2" type="left" %}
  {% include feature_row id="feature_row3" type="right" %}
