@@ -7,7 +7,15 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
+> static: stat·​ic | ˈsta-tik
+> 1. adj. showing little change
+> 2. n. noise produced in a radio or television receiver by atmospheric or various natural or man-made electrical disturbances
+> 3. n. heated opposition or criticism
+
+
+
 {% highlight ruby %}
+---
 Andrew:
   age: 35..45
   straight: true
@@ -16,24 +24,15 @@ Andrew:
   income:  < $65000
   politicalId: {center+right}
   religion: "Orthodox Christian"
+  eduLevel: > grad
+---
 
-var Andrew
+var authorName = "Andrew"
 if(straight=true; white=true; male=true) {
-  alert(Privileged);
+  document.write(authorName + " is privileged.");
 }
+else {
+  document.write(authorName + " may be oppressed.")
+}
+
 {% endhighlight %}
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-## Minima Code
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-## Jekyll Code
-> You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

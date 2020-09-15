@@ -200,8 +200,17 @@
 
       <section class="page__content" itemprop="text">
         
-        
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="no">Andrew</span><span class="p">:</span>
+        <blockquote>
+  <p>static: stat·​ic | ˈsta-tik</p>
+  <ol>
+    <li>adj. showing little change</li>
+    <li>n. noise produced in a radio or television receiver by atmospheric or various natural or man-made electrical disturbances</li>
+    <li>n. heated opposition or criticism</li>
+  </ol>
+</blockquote>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="o">---</span>
+<span class="no">Andrew</span><span class="p">:</span>
   <span class="ss">age: </span><span class="mi">35</span><span class="o">..</span><span class="mi">45</span>
   <span class="ss">straight: </span><span class="kp">true</span>
   <span class="ss">white: </span><span class="kp">true</span>
@@ -209,25 +218,16 @@
   <span class="ss">income:  </span><span class="o">&lt;</span> <span class="vg">$65000</span>
   <span class="ss">politicalId: </span><span class="p">{</span><span class="n">center</span><span class="o">+</span><span class="n">right</span><span class="p">}</span>
   <span class="ss">religion: </span><span class="s2">"Orthodox Christian"</span>
+  <span class="ss">eduLevel: </span><span class="o">&gt;</span> <span class="n">grad</span>
+<span class="o">---</span>
 
-<span class="n">var</span> <span class="no">Andrew</span>
+<span class="n">var</span> <span class="n">authorName</span> <span class="o">=</span> <span class="s2">"Andrew"</span>
 <span class="k">if</span><span class="p">(</span><span class="n">straight</span><span class="o">=</span><span class="kp">true</span><span class="p">;</span> <span class="n">white</span><span class="o">=</span><span class="kp">true</span><span class="p">;</span> <span class="n">male</span><span class="o">=</span><span class="kp">true</span><span class="p">)</span> <span class="p">{</span>
-  <span class="n">alert</span><span class="p">(</span><span class="no">Privileged</span><span class="p">);</span>
+  <span class="n">document</span><span class="p">.</span><span class="nf">write</span><span class="p">(</span><span class="n">authorName</span> <span class="o">+</span> <span class="s2">" is privileged."</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="k">else</span> <span class="p">{</span>
+  <span class="n">document</span><span class="p">.</span><span class="nf">write</span><span class="p">(</span><span class="n">authorName</span> <span class="o">+</span> <span class="s2">" may be oppressed."</span><span class="p">)</span>
 <span class="p">}</span></code></pre></figure>
-
-<p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></p>
-
-<h2 id="minima-code">Minima Code</h2>
-<p>You can find the source code for Minima at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/minima">minima</a></p>
-
-<h2 id="jekyll-code">Jekyll Code</h2>
-<blockquote>
-  <p>You can find the source code for Jekyll at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
-</blockquote>
 
 
         
