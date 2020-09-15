@@ -29,10 +29,11 @@ Andrew:
 
 var authorName = "Andrew"
 if(straight=true; white=true; male=true) {
-  document.write(authorName + " is privileged.");
+  document.write(authorName + " has power.");
 }
 else {
-  document.write(authorName + " may be oppressed.")
+  document.write(authorName + " lacks power.")
 }
 
+$error: unspecified variables. see details
 {% endhighlight %}
