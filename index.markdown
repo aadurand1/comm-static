@@ -35,7 +35,7 @@ feature_row2:
     url: "#test-link"
 feature_row3:
   - image_path: /assets/images/noun_tuning.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."

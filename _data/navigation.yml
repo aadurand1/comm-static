@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: /archive/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Dialogue"
+    url: /dialogue-archive/
+  - title: "Harmony"
+    url: /music-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
