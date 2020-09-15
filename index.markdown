@@ -4,7 +4,7 @@
 layout: splash
 header:
   overlay_image: /assets/images/noun_static_line_white.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
   caption: "Image credit: [**CreationsbyElise for the Noun Project**](https://thenounproject.com/)"
 #  actions:
 #    - label: "Read More"
@@ -12,20 +12,19 @@ header:
 #      excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
   intro:
     - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row:
-  - image_path: assets/images/dinnerLake.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/woodTrail.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-  - image_path: /assets/images/sunsetPiers.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#feature_row:
+#   alt: "placeholder image 1"
+#    title: "Placeholder 1"
+#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#  - image_path: /assets/images/...
+#    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+#    alt: "placeholder image 2"
+#    title: "Placeholder 2"
+#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#    url: "#test-link"
+#  - image_path: /assets/images/...
+#    title: "Placeholder 3"
+#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/noun_discussion_bubbles.png
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
