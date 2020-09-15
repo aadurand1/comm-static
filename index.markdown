@@ -29,16 +29,16 @@ feature_row2:
   - image_path: /assets/images/noun_discussion_bubbles.png
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "Dialogue"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "/dialogue-archive"
 feature_row3:
   - image_path: /assets/images/noun_tuning.png
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "Harmony"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "/music-archive"
 
 # Include the following to add a 3 pic feature row
 # {% include feature_row %}
