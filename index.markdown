@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 header:
-  overlay_image: /assets/images/bioPic.jpeg
+  overlay_image: /assets/images/noun_static_line_white.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Yours Truly**](https://google.com)"
+  caption: "Image credit: [**CreationsbyElise for the Noun Project**](https://thenounproject.com/)"
   actions:
     - label: "Read More"
       url: "https://google.com"
