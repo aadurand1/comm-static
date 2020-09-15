@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Andrew"
   avatar           : "/assets/images/bioPic.jpeg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "currently avoiding social media"
+  location         : "the Midwest"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:your.aadurand1@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -274,7 +274,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
