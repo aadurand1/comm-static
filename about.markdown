@@ -20,10 +20,18 @@ You can find the source code for Minima at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-## Here is a List
+{% highlight ruby %}
+Andrew:
+  age: 35..45
+  straight: true
+  white: true
+  male: true
+  income:  > $50000
+  politicalId: {center+right}
+  religion: "Orthodox Christian"
 
-* Hello
-* Anabelle
-* How
-* Are
-* You
+var Andrew
+if(straight=true; white=true; male=true) {
+  alert(Privileged);
+}
+{% endhighlight %}
