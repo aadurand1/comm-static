@@ -33,7 +33,7 @@ We want simple data and definitions; it helps mitigate the burden of complex dec
 
 Let's challenge this.
 
-### Dialogue
+## Dialogue
 
 This web space will take on the form of a dialogic. What is a [dialogic](https://en.wikipedia.org/wiki/Dialogic "wikipedia") you ask? Simply put, it is an exploration of meaning through dialogue. It is NOT an attempt to hear all side and then form a compromise. A compromise may or may not exist; the solution may even be apparent. In the dialogic, answers come only as existential solutions, when they come at all.
 
@@ -45,6 +45,6 @@ Part of the desire to construct a dialogue in this space was the consistent frus
 
 My main goal in starting with data and a definition is not to shame my readers into sticking around. Instead, I want to present myself clearly so I can be held accountable. There is nothing untrue about what you see listed above. My hope with this space is that through empathetic discourse, we can avoid attempts to filter others through simple formulas that very clearly result in errors.
 
-### Harmony
+## Harmony
 
 ...and I will also discuss music I'm listening to. Because I like music. And dancing together takes the edge off.
