@@ -1,7 +1,7 @@
 ---
 layout: single
 title: About
-author_profile: true
+author_profile: false
 permalink: /about/
 header:
   overlay_image: /assets/images/bioPic.jpeg
@@ -13,6 +13,7 @@ header:
 > 2. **n.** noise produced on a radio or television by natural or man-made electrical disturbances
 > 3. **n.** heated opposition or criticism
 
+<br>
 {% highlight ruby %}
 ---
 Andrew:
@@ -26,7 +27,7 @@ Andrew:
   eduLevel: >= grad
 ---
 {% endhighlight %}
-
+<br>
 ## Still here?
 
 We want simple data and definitions; it helps mitigate the burden of complex decision making while building our perception of the world. Most people will leave after parsing the info above. If we see possible complexity in the data, our tendency is to focus on the familiar variables so it all fits into neat little boxes that are comfortable to us.
