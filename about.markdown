@@ -17,7 +17,7 @@ header:
 {% highlight ruby %}
 ---
 Andrew:
-  age: 35..45
+  age: 35.45
   straight: true
   white: true
   male: true
